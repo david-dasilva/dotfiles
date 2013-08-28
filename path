@@ -1,0 +1,4 @@
+# dotpath file
+# used by dotpath.sh to populate the PATH
+# 1 path on each line
+~/.bin
