@@ -112,3 +112,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+#THIS MUST BE AT THE END OF THE FILE FOR GVM TO WORK!!!
+[[ -s "/home/shepard/.gvm/bin/gvm-init.sh" ]] && source "/home/shepard/.gvm/bin/gvm-init.sh"

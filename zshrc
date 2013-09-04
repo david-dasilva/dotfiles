@@ -40,7 +40,7 @@ ZSH_THEME="blinks"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git git-extras git-flow git-remote-branch github lol nyan sublime web-search)
+plugins=(git git-extras git-flow git-remote-branch github lol nyan sublime web-search grails)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -49,3 +49,4 @@ source $ZSH/oh-my-zsh.sh
 
 # DotPath script : populate PATH with the content of .Path
 source $ZSH/tools/dotpath.sh
+

@@ -9,3 +9,5 @@ umask 022
 # De la couleur pour grep
 export GREP_OPTIONS='--color=auto'
 
+# Grails GVM
+[[ -s "/home/shepard/.gvm/bin/gvm-init.sh" ]] && source "/home/shepard/.gvm/bin/gvm-init.sh"
